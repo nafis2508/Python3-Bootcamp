@@ -1,0 +1,5 @@
+v = input("Enter comma separated values: ")
+l = v.split(",")
+t = tuple(l)
+print(l)
+print(t)
